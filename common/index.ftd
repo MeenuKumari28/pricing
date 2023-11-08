@@ -1,0 +1,103 @@
+-- record feature:
+caption title:
+boolean active: false
+
+
+
+-- feature list free-feature-list:
+
+-- feature: Lorem ipsum dolor sit amet
+
+-- feature: Sed quibusdam sint vel rerum voluptates
+
+-- feature: Vel inventore quasi et enim enim
+
+-- feature: In incidunt ipsa et possimus
+
+-- feature: Quo iste quod aut
+
+-- end: free-feature-list
+
+
+
+-- feature list startup-feature-list:
+
+-- feature: Lorem ipsum dolor sit amet
+
+-- feature: Sed quibusdam sint vel rerum voluptates
+
+-- feature: Vel inventore quasi et enim enim
+
+-- feature: In incidunt ipsa et possimus
+
+-- feature: Quo iste quod aut
+
+-- end: startup-feature-list
+
+
+
+
+-- feature list enterprise-feature-list:
+
+-- feature: Lorem ipsum dolor sit amet
+
+-- feature: Sed quibusdam sint vel rerum voluptates
+
+-- feature: Vel inventore quasi et enim enim
+
+-- feature: In incidunt ipsa et possimus
+
+-- feature: Quo iste quod aut
+
+-- end: enterprise-feature-list
+
+
+
+
+
+-- feature list free-feature-list-2:
+
+-- feature: - Feature 1
+
+-- feature: - Feature 2
+
+-- feature: - Feature 3
+
+-- feature: - Feature 4
+
+-- feature: - Feature 5 
+
+-- end: free-feature-list-2
+
+
+
+-- feature list startup-feature-list-2:
+
+-- feature: - Feature 1
+
+-- feature: - Feature 2
+
+-- feature: - Feature 3
+
+-- feature: - Feature 4
+
+-- feature: - Feature 5 
+
+-- end: startup-feature-list-2
+
+
+
+
+-- feature list enterprise-feature-list-2:
+
+-- feature: - Feature 1
+
+-- feature: - Feature 2
+
+-- feature: - Feature 3
+
+-- feature: - Feature 4
+
+-- feature: - Feature 5 
+
+-- end: enterprise-feature-list-2

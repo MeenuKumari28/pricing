@@ -10,10 +10,6 @@ favicon: /-/meenukumari28.github.io/pricing/favicon.ico
 
 -- fastn.auto-import: meenukumari28.github.io/pricing/FASTN/ds
 -- fastn.auto-import: meenukumari28.github.io/pricing/assets
+-- fastn.auto-import: meenukumari28.github.io/pricing/common
 -- fastn.auto-import: doc-site
 
--- fastn.sitemap:
-
-# Home: index.html
-
-- Right Sidebar Sample: /sidebar/
